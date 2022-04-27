@@ -15,9 +15,15 @@ dependencies:
 
 
   cupertino_icons: ^1.0.2
+
+
   freezed_annotation: any
   equatable: ^2.0.0
   dio: ^4.0.6
+  dartz: ^0.10.1
+  connectivity_plus: ^2.3.0
+
+
   flutter_riverpod: ^2.0.0-dev.5
 
 
